@@ -13,8 +13,8 @@ Hay 3 push-buttons:
 ![CHEESE!](https://user-images.githubusercontent.com/87031668/151654972-5e9cfd4b-2a63-4d52-9b82-48a6f5cfbe45.png)
 
 ## Videos
-[![Exactitud](https://i.imgur.com/-KFFsFr5zDQ.png)](https://youtu.be/-KFFsFr5zDQ)
-[![Funcionamiento](https://i.imgur.com/Q-HqPuEgXxY.png)](https://youtu.be/Q-HqPuEgXxY)
+[![Alt text](https://i.imgur.com/-KFFsFr5zDQ.png)](https://youtu.be/-KFFsFr5zDQ)
+[![Alt text](https://i.imgur.com/Q-HqPuEgXxY.png)](https://youtu.be/Q-HqPuEgXxY)
 
 
 
